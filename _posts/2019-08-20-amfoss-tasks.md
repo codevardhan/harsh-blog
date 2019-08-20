@@ -12,7 +12,7 @@ My first direct introduction to amFOSS, however was through the induction ceremo
 ## task 3
 After these, I started working on task 3. This task was very close to making me successfully pull my hair out. I had to create a program for scraping google search using ruby and nokogiri. I read through most of the documentation of ruby and nokogiri. I also scraped a smaller website as a part of a blog post tutorial. So I was feeling quite confident in cracking this task; which was until I actually started doing the task. I had underestimated the complexity of a google search page, and no matter what I tried, I could not parse any sort of useful result from it. I immediately pinned this on my lack of knowledge of HTML and CSS. To rectify this issue, I started learning HTML and CSS from an online source. It took me about two days to learn the syntaxes of HTML and CSS.(Even though it was explicitly mentioned in the pdf given to us to not get sidetracked into learning a whole language, I couldn't stop until I felt that I had knowledge of the basics). This did give me clearer understanding of the problem and made the use of nokogiri much easier, but at the end of the day, I had no results to display. It almost seemed to me that the google search page was built in a way to prevent scraping. That is as far a progress I got in that task.
 
- ## task-4
+## task-4
 Dejected at not being able to solve the task, I moved on to the next task, "Advanced XOR". I was completely new to encryption of all sorts. So, I read about encryption and learnt what the terms key, check hash, ciphertext stood for. Then I proceeded to read the encryption script. I tried doing it for a bit of time, but then I simply could not understand it.
 
 ## task-5
