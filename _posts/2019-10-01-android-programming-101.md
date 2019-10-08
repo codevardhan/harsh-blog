@@ -10,4 +10,6 @@ Before diving into building apps from this codelabs tutorial from google, I had 
 
 # First week
 
-After installing android studio, downloading extra libraries, creating a virtual machine for the app to run in, I created the traditional hello world program. 
+After installing android studio, downloading extra libraries, creating a virtual machine for the app to run in, I created the traditional hello world program. Following this I did the next 3 sub modules in the codelabs course. During this time, I was given a project by my mentors at amFOSS to be completed in 10 working days. It was to create a timetable app that can display the timetable for a particular day and a memo for each subject. Before starting the project, I was confused if I had to learn the basics from codelabs first or just directly jump into stuff that I had no idea about. Because there was no enough time to do both,I decided to start working on the app.  
+
+At first I learnt to create tabbed apps using `TabbedActivity`. After this I kept running into words like `fragments`, `activity`, `saved state`. So, I took some time into reading and understanding some of them. I also understood the way kotlin/java code works with res files. Created a couple of example programs to understand the implementation.
