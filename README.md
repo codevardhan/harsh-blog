@@ -1,4 +1,4 @@
-# My Blog
+# [My Blog](https://codevardhan.github.io/harsh-blog/)
 This site contains my thoughts, tutorials, rants, discoveries and blunders (hopefully not much) on my journey through software development.
 # Credits
 This repo is forked from jekyll pages. 
